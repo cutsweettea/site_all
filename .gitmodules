@@ -1,0 +1,15 @@
+[submodule "site_frontend"]
+	path = site_frontend
+	url = https://github.com/cutsweettea/site_frontend
+[submodule "site_messaging"]
+	path = site_messaging
+	url = https://github.com/cutsweettea/site_messaging
+[submodule "site_cdn"]
+	path = site_cdn
+	url = https://github.com/cutsweettea/site_cdn
+[submodule "site_backend"]
+	path = site_backend
+	url = https://github.com/cutsweettea/site_backend
+[submodule "site_admin"]
+	path = site_admin
+	url = https://github.com/cutsweettea/site_admin
